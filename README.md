@@ -1,0 +1,1 @@
+# Sceleton example java QA
